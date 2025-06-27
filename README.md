@@ -5,7 +5,7 @@ This repo also contains fritzing file along with the screenshots of this project
 <br>
 Made by : Sakshyam Prabhat Adhikari
 <br>
-![IOT Project](IOT%20Project%20Photo.png)
+![IOT Project](IOT%20Project%20Photo.jpg)
 <br>
 ![Circuit Diagram](Circuit%20Diagram%20Photo.png)
 <br>
